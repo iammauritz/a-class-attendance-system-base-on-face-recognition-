@@ -1,7 +1,7 @@
 # A class attendance system base on face recognition
 
-This is my attempt to make a Face recognition system for classroom or attendance. 
-The system is based on Baidu API.
+This is my attempt to make a Face recognition system for classroom or attendance. <br>
+The system is based on Baidu API.<br>
 UI interface is Japanese.
 All functions have been integrated in face.py
 When the system is closed, a txt file consisting of attendance of all the students is generated.
