@@ -11,9 +11,9 @@ My level is limited. There may be bugs in the project. Welcome to propose soluti
 python 3.8,opencv-python
 
 # Get the access_token of the baidu API
-For detailed Japanese manual, please refer to my graduate study 2.
-Or you can use mine instead of trying to get the access_token.
-I have written them down in img_api2.py.
+For detailed Japanese manual, please refer to my graduate study 2.<br>
+Or you can use mine instead of trying to get the access_token.<br>
+I have written them down in img_api2.py.<br>
 
 # Want to run it on your own
 1) Put the face images in./img/face folder and name the images by the person's name.<br>
